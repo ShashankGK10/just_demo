@@ -1,3 +1,3 @@
 # just_demo
 Learning repo
-Author: Shashank G K
+Author: Shashank G K (the legend)
